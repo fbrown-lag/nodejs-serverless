@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "skipLibCheck": true,
     "moduleResolution": "node",
     "paths": {
       "@vercel/node": [ "./node_modules/@vercel/node" ]
